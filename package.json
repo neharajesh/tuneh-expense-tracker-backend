@@ -1,0 +1,23 @@
+{
+  "name": "tuneh-expense-tracker-backend",
+  "version": "1.0.0",
+  "description": "backend for tuneh's expense tracker",
+  "homepage": "https://github.com/neharajesh/tuneh-expense-tracker-backend#readme",
+  "bugs": {
+    "url": "https://github.com/neharajesh/tuneh-expense-tracker-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neharajesh/tuneh-expense-tracker-backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
